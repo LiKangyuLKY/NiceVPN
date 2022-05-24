@@ -1,7 +1,7 @@
 # 稳定、好用、支持多平台的PandaVPN
 
 最近身边很多小伙伴都在问我有没有可靠的VPN可用，因为查资料、读文献用谷歌和谷歌学术还是比较方便的，所以就把用了近两年得的VPN分享给大家
-官网地址：[点击访问官网](https://www.pantoto.xyz/r/255114)
+官网地址：[点击访问官网](https://pandavpnpro.com/r/255114)
 ![image](https://github.com/LiKangyuLKY/NiceVPN/blob/main/images/image1.png)
 ## 优势一：线路多、速度快
 PandaVPN中的路线非常多，包括美国、中国、美洲、欧洲、日韩、亚太、游戏代理、中东和非洲等等路线。不过我这两年来使用一直是默认推荐的SVIP路线（只要购买就是SVIP），速度也很快，我下载东西一般在2MB/s以上，看YouTube也没卡过。
